@@ -10,7 +10,7 @@ This project aims to classify brain tumor images into different categories using
 The primary goal of this project is to classify brain tumors using a pre-trained EfficientNet model. Transfer learning allows us to leverage EfficientNet's pre-trained weights on ImageNet and adapt them to our custom dataset.
 
 ### **Dataset**
-- **Source**: [Kaggle Brain Tumor MRI Dataset](https://drive.google.com/drive/folders/1SCWLlSBlMumvHnsr21d4BTQPZ6O-5ARW?usp=drive_link,https://drive.google.com/drive/folders/1jWwE8pAiy1Y23L1ms3sUidtjv_WgQH7D?usp=drive_link)
+- **Source**: [Kaggle Brain Tumor MRI Dataset](https://drive.google.com/drive/folders/1CurTcbQ_liXtctCjMmjwGm3EnKjzIsiB?usp=drive_link)
 - **Classes**: Tumor (Positive) vs No Tumor (Negative)
 
 ### **Methodology**
