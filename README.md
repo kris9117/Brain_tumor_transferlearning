@@ -11,7 +11,7 @@ The primary goal of this project is to classify brain tumors using a pre-trained
 
 ### **Dataset**
 - **Source**: [Kaggle Brain Tumor MRI Dataset](https://drive.google.com/drive/folders/1CurTcbQ_liXtctCjMmjwGm3EnKjzIsiB?usp=drive_link)
-- **Classes**: Tumor (Positive) vs No Tumor (Negative)
+- **Classes**: Tumor ['glioma_tumor','no_tumor','meningioma_tumor','pituitary_tumor']
 
 ### **Methodology**
 - Data is split into training, validation, and test sets.
